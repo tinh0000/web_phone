@@ -1,0 +1,1986 @@
+[
+    {
+      "id": "1",
+      "type": "SmartPhone",
+      "product": [
+        {
+          "id_product": "1",
+          "name": "Điện thoại",
+          "label": "Iphone",
+          "product": [
+                {
+                    "id": "1",
+                    "name": "iPhone 15 Pro Max Chính hãng (VN/A)",
+                    "lable_product": "iphone",
+                    "reducedprice": "32.790.000 đ",
+                    "price": "38.990.000 đ",
+                    "introduction": "iPhone 15 Pro Max Chính hãng (VN/A)",
+                    "image": "https://cdn-v2.didongviet.vn/files/products/2023/8/29/1/1695953606803_thumb_iphone_15_pro_didongviet.jpg",
+                    "list_color": [
+                        {
+                            "color":"silver"
+                        },
+                        {
+                            "color": "black"
+                        },
+                        {
+                            "color": "white"
+                        }                 
+                    ],
+                    "capacity": [
+                        { "DiskSpace": "128gb"},
+                        { "DiskSpace": "256gb"},
+                        { "DiskSpace": "512gb"}
+                    ],
+                    "content" : "iPhone 15 Pro Max được công bố năm 2023 với tổng cộng 4 phiên bản màu sắc. Trong số đó, có 2 màu mới là Xám Titan (Titan Gray) và Xanh Titan (Blue Titan). Tuy nhiên, không thể nào không nhắc tới 2 màu quen thuộc hàng năm là Đen và Trắng. Đây là 2 tuỳ chọn màu từng xuất hiện trên iPhone 14 Pro trước đây. Tuy nhiên, điều khát ngạc nhiên là Apple đã quyết định loại bỏ màu vàng Gold trên cặp đôi iPhone 15 Pro 512GB và Pro Max nên đây là một nước đi khá hấp dẫn. iPhone 15 Pro 512GB Xanh Titan (Blue Titan) được tích hợp khung viền Titan mới để thay thế viền thép không gỉ như mọi năm. Màu Xanh này sẽ có nét tương đồng với màu xanh dương có trên iPhone 12 Pro. Tuy nhiên, nó sẽ được thiết kế theo thiên hướng đậm màu hơn và hoàn thiện hơn với chút gam xám để nhằm tôn lên nét đẹp lớp vỏ titan ở ngoài."
+                },
+                {
+                    "id": "2",
+                    "name": "iPhone 13 Chính Hãng (VN/A)",
+                    "lable_product": "iphone",
+                    "reducedprice": "15.490.000 đ",
+                    "price": "16.990.000 đ",
+                    "introduction": "iPhone 13 Chính Hãng (VN/A)",
+                    "image": "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/iphone-13-128gb-didongviet_1.jpg",
+                    "list_color": [
+                        {
+                            "color":"silver"
+                        },
+                        {
+                            "color": "black"
+                        },
+                        {
+                            "color": "white"
+                        }                 
+                    ],
+                    "capacity": [
+                        { "DiskSpace": "128gb"},
+                        { "DiskSpace": "256gb"},
+                        { "DiskSpace": "512gb"}
+                    ],
+                    "content" : "iPhone 13 Chính hãng (VN/A) với thiết kế thời thượng và các tính năng hiện đại, chiếc smartphone này sẽ mang đến cho bạn trải nghiệm đầy cảm xúc với khả năng sáng tạo vô tận từ 2 camera 12MP, kết hợp với hiệu năng mạnh mẽ từ chip Apple A15 Bionic sản xuất trên tiến trình 5nm. Bên cạnh đó, với dung lượng pin lớn cho phép người dùng trải nghiệm dài lâu. "
+                },
+                {
+                    "id": "3",
+                    "name": "iPhone 12 Chính Hãng (VN/A)",
+                    "lable_product": "iphone",
+                    "reducedprice": "14.990.000 đ",
+                    "price": "15.340.000 đ",
+                    "introduction": "iPhone 12 Chính Hãng (VN/A)",
+                    "image": "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/iphone-12-64gb-mau-tim-didongviet.jpg",
+                    "list_color": [
+                        {
+                            "color":"silver"
+                        },
+                        {
+                            "color": "black"
+                        },
+                        {
+                            "color": "white"
+                        }                 
+                    ],
+                    "capacity": [
+                        { "DiskSpace": "128gb"},
+                        { "DiskSpace": "256gb"},
+                        { "DiskSpace": "512gb"}
+                    ],
+                    "content" : "iPhone 12 Chính hãng (VN/A) với thiết kế thời thượng và các tính năng hiện đại, chiếc smartphone này sẽ mang đến cho bạn trải nghiệm đầy cảm xúc với khả năng sáng tạo vô tận từ 2 camera 12MP, kết hợp với hiệu năng mạnh mẽ từ chip Apple A15 Bionic sản xuất trên tiến trình 5nm. Bên cạnh đó, với dung lượng pin lớn cho phép người dùng trải nghiệm dài lâu."
+                },
+                {
+                    "id": "4",
+                    "name": "iPhone 12 128gb Chính hãng (VN/A)",
+                    "lable_product": "iphone",
+                    "reducedprice": "16.990.000 đ",
+                    "price": "18.340.000 đ",
+                    "introduction": "iPhone 12 128gb Chính hãng (VN/A)",
+                    "image": "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/iphone-12-64gb-didongviet.jpeg",
+                    "list_color": [
+                        {
+                            "color":"silver"
+                        },
+                        {
+                            "color": "black"
+                        },
+                        {
+                            "color": "white"
+                        }                 
+                    ],
+                    "capacity": [
+                        { "DiskSpace": "128gb"},
+                        { "DiskSpace": "256gb"},
+                        { "DiskSpace": "512gb"}
+                    ],
+                    "content" : "iPhone 12 Chính hãng (VN/A) với thiết kế thời thượng và các tính năng hiện đại, chiếc smartphone này sẽ mang đến cho bạn trải nghiệm đầy cảm xúc với khả năng sáng tạo vô tận từ 2 camera 12MP, kết hợp với hiệu năng mạnh mẽ từ chip Apple A15 Bionic sản xuất trên tiến trình 5nm. Bên cạnh đó, với dung lượng pin lớn cho phép người dùng trải nghiệm dài lâu."
+                },
+                {
+                    "id": "5",
+                    "name": "iPhone 14 128gb Chính hãng (VN/A)",
+                    "lable_product": "iphone",
+                    "reducedprice": "18.190.000 đ",
+                    "price": "22.340.000 đ",
+                    "introduction": "iPhone 14 128gb Chính hãng (VN/A)",
+                    "image": "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/iphone-14-128gb-didongviet_1.jpg",
+                    "list_color": [
+                          {
+                              "color":"silver"
+                          },
+                          {
+                              "color": "black"
+                          },
+                          {
+                              "color": "white"
+                          }                 
+                      ],
+                    "capacity": [
+                          { "DiskSpace": "128gb"},
+                          { "DiskSpace": "256gb"},
+                          { "DiskSpace": "512gb"}
+                      ],
+                    "content" : "iPhone 14 Pro Chính hãng (VN/A) Với thiết kế thời thượng và các tính năng hiện đại, chiếc smartphone này sẽ mang đến cho bạn trải nghiệm đầy cảm xúc với khả năng sáng tạo bứt phá với bộ 3 camera gồm: 48MP và 2 camera 12MP, kết hợp với hiệu năng mạnh mẽ từ chipset Apple A16 Bionic 6 nhân. Bên cạnh đó, với dung lượng pin lớn cho phép người dùng trải nghiệm dài lâu. Đặt ngay để có trải nghiệm mua sắm Hơn cả Chính Hãng."
+                },
+                {
+                    "id": "6",
+                    "name": "iPhone 14 Pro Max Chính hãng (VN/A)",
+                    "lable_product": "iphone",
+                    "reducedprice": "18.990.000 đ",
+                    "price": "22.340.000 đ",
+                    "introduction": "iPhone 14 Pro Max Chính hãng (VN/A)",
+                    "image": "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/iphone-13-pro-max-128gb-didongviet_1_1.jpg",
+                    "list_color": [
+                          {
+                              "color":"silver"
+                          },
+                          {
+                              "color": "black"
+                          },
+                          {
+                              "color": "white"
+                          }                 
+                      ],
+                   "capacity": [
+                      { "DiskSpace": "128gb"},
+                      { "DiskSpace": "256gb"},
+                      { "DiskSpace": "512gb"}
+                   ],
+                   "content" : "iPhone 14 Pro Chính hãng (VN/A) Với thiết kế thời thượng và các tính năng hiện đại, chiếc smartphone này sẽ mang đến cho bạn trải nghiệm đầy cảm xúc với khả năng sáng tạo bứt phá với bộ 3 camera gồm: 48MP và 2 camera 12MP, kết hợp với hiệu năng mạnh mẽ từ chipset Apple A16 Bionic 6 nhân. Bên cạnh đó, với dung lượng pin lớn cho phép người dùng trải nghiệm dài lâu. Đặt ngay để có trải nghiệm mua sắm Hơn cả Chính Hãng."
+                },
+                {
+                    "id": "7",
+                    "name": "iPhone 14 Pro 256GB Chính Hãng (VN/A)",
+                    "lable_product": "iphone",
+                    "reducedprice": "24.990.000 đ",
+                    "price": "26.340.000 đ",
+                    "introduction": "iPhone 14 Pro 256GB Chính Hãng (VN/A)",
+                    "image": "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/iphone-13-pro-256gb-didongviet_1.jpg",
+                    "list_color": [
+                          {
+                              "color":"silver"
+                          },
+                          {
+                              "color": "black"
+                          },
+                          {
+                              "color": "white"
+                          }                 
+                      ],
+                    "capacity": [
+                      { "DiskSpace": "128gb"},
+                      { "DiskSpace": "256gb"},
+                      { "DiskSpace": "512gb"}
+                    ],
+                    "content" : "iPhone 14 Pro Chính hãng (VN/A) Với thiết kế thời thượng và các tính năng hiện đại, chiếc smartphone này sẽ mang đến cho bạn trải nghiệm đầy cảm xúc với khả năng sáng tạo bứt phá với bộ 3 camera gồm: 48MP và 2 camera 12MP, kết hợp với hiệu năng mạnh mẽ từ chipset Apple A16 Bionic 6 nhân. Bên cạnh đó, với dung lượng pin lớn cho phép người dùng trải nghiệm dài lâu. Đặt ngay để có trải nghiệm mua sắm Hơn cả Chính Hãng."
+                },
+                {
+                    "id": "8",
+                    "name": "iPhone 14 Pro Chính Hãng (VN/A)",
+                    "lable_product": "iphone",
+                    "reducedprice": "24.390.000 đ",
+                    "price": "27.340.000 đ",
+                    "introduction": "iPhone 14 Pro Chính Hãng (VN/A)",
+                    "image": "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/iphone-13-pro-256gb-didongviet_1.jpg",
+                    "list_color": [
+                          {
+                              "color":"silver"
+                          },
+                          {
+                              "color": "black"
+                          },
+                          {
+                              "color": "white"
+                          }                 
+                      ],
+                    "capacity": [
+                          { "DiskSpace": "128gb"},
+                          { "DiskSpace": "256gb"},
+                          { "DiskSpace": "512gb"}
+                      ],
+                    "content" : "iPhone 14 Pro Chính hãng (VN/A) Với thiết kế thời thượng và các tính năng hiện đại, chiếc smartphone này sẽ mang đến cho bạn trải nghiệm đầy cảm xúc với khả năng sáng tạo bứt phá với bộ 3 camera gồm: 48MP và 2 camera 12MP, kết hợp với hiệu năng mạnh mẽ từ chipset Apple A16 Bionic 6 nhân. Bên cạnh đó, với dung lượng pin lớn cho phép người dùng trải nghiệm dài lâu. Đặt ngay để có trải nghiệm mua sắm Hơn cả Chính Hãng."
+                },
+                {
+                    "id": "9",
+                    "name": "iPhone 15 Pro 256GB Chính hãng (VN/A)",
+                    "lable_product": "iphone",
+                    "reducedprice": "30.990.000 đ",
+                    "price": "32.340.000 đ",
+                    "introduction": "iPhone 15 Pro 256GB Chính hãng (VN/A)",
+                    "image": "https://cdn-v2.didongviet.vn/files/products/2023/8/29/1/1695953771684_thumb_iphone_15_pro_didongviet.jpg",
+                    "list_color": [
+                          {
+                              "color":"silver"
+                          },
+                          {
+                              "color": "black"
+                          },
+                          {
+                              "color": "white"
+                          }                 
+                      ],
+                    "capacity": [
+                      { "DiskSpace": "128gb"},
+                      { "DiskSpace": "256gb"},
+                      { "DiskSpace": "512gb"}
+                      ],
+                    "content" : "iPhone 15 Pro Max được công bố năm 2023 với tổng cộng 4 phiên bản màu sắc. Trong số đó, có 2 màu mới là Xám Titan (Titan Gray) và Xanh Titan (Blue Titan). Tuy nhiên, không thể nào không nhắc tới 2 màu quen thuộc hàng năm là Đen và Trắng. Đây là 2 tuỳ chọn màu từng xuất hiện trên iPhone 14 Pro trước đây. Tuy nhiên, điều khát ngạc nhiên là Apple đã quyết định loại bỏ màu vàng Gold trên cặp đôi iPhone 15 Pro 512GB và Pro Max nên đây là một nước đi khá hấp dẫn. iPhone 15 Pro 512GB Xanh Titan (Blue Titan) được tích hợp khung viền Titan mới để thay thế viền thép không gỉ như mọi năm. Màu Xanh này sẽ có nét tương đồng với màu xanh dương có trên iPhone 12 Pro. Tuy nhiên, nó sẽ được thiết kế theo thiên hướng đậm màu hơn và hoàn thiện hơn với chút gam xám để nhằm tôn lên nét đẹp lớp vỏ titan ở ngoài."
+                },
+                {
+                    "id": "10",
+                    "name": "iPhone 15 256GB Chính hãng (VN/A)",
+                    "lable_product": "iphone",
+                    "reducedprice": "24.690.000 đ",
+                    "price": "26.840.000 đ",
+                    "introduction": "iPhone 15 256GB Chính hãng (VN/A)",
+                    "image": "https://cdn-v2.didongviet.vn/files/products/2023/8/29/1/1695953303071_thumb_iphone_15_didongviet.jpg",
+                    "list_color": [
+                          {
+                              "color":"silver"
+                          },
+                          {
+                              "color": "black"
+                          },
+                          {
+                              "color": "white"
+                          }                 
+                      ],
+                    "capacity": [
+                          { "DiskSpace": "128gb"},
+                          { "DiskSpace": "256gb"},
+                          { "DiskSpace": "512gb"}
+                      ],
+                    "content" : "iPhone 15 Pro Max được công bố năm 2023 với tổng cộng 4 phiên bản màu sắc. Trong số đó, có 2 màu mới là Xám Titan (Titan Gray) và Xanh Titan (Blue Titan). Tuy nhiên, không thể nào không nhắc tới 2 màu quen thuộc hàng năm là Đen và Trắng. Đây là 2 tuỳ chọn màu từng xuất hiện trên iPhone 14 Pro trước đây. Tuy nhiên, điều khát ngạc nhiên là Apple đã quyết định loại bỏ màu vàng Gold trên cặp đôi iPhone 15 Pro 512GB và Pro Max nên đây là một nước đi khá hấp dẫn. iPhone 15 Pro 512GB Xanh Titan (Blue Titan) được tích hợp khung viền Titan mới để thay thế viền thép không gỉ như mọi năm. Màu Xanh này sẽ có nét tương đồng với màu xanh dương có trên iPhone 12 Pro. Tuy nhiên, nó sẽ được thiết kế theo thiên hướng đậm màu hơn và hoàn thiện hơn với chút gam xám để nhằm tôn lên nét đẹp lớp vỏ titan ở ngoài."
+                },
+                {
+                    "id": "11",
+                    "name": "iPhone 14 Plus 256GB Chính Hãng (VN/A)",
+                    "lable_product": "iphone",
+                    "reducedprice": "22.290.000 đ",
+                    "price": "25.540.000 đ",
+                    "introduction": "iPhone 14 Plus 256GB Chính Hãng (VN/A)",
+                    "image": "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/iphone-14-plus-128gb-didongviet_1.jpg",
+                    "list_color": [
+                          {
+                              "color":"silver"
+                          },
+                          {
+                              "color": "black"
+                          },
+                          {
+                              "color": "white"
+                          }                 
+                      ],
+                    "capacity": [
+                          { "DiskSpace": "128gb"},
+                          { "DiskSpace": "256gb"},
+                          { "DiskSpace": "512gb"}
+                      ],
+                      "content" : "iPhone 14 Pro Chính hãng (VN/A) Với thiết kế thời thượng và các tính năng hiện đại, chiếc smartphone này sẽ mang đến cho bạn trải nghiệm đầy cảm xúc với khả năng sáng tạo bứt phá với bộ 3 camera gồm: 48MP và 2 camera 12MP, kết hợp với hiệu năng mạnh mẽ từ chipset Apple A16 Bionic 6 nhân. Bên cạnh đó, với dung lượng pin lớn cho phép người dùng trải nghiệm dài lâu. Đặt ngay để có trải nghiệm mua sắm Hơn cả Chính Hãng."
+                },
+                {
+                    "id": "12",
+                    "name": "iPhone 14 128GB Chính hãng (VN/A)",
+                    "lable_product": "iphone",
+                    "reducedprice": "19.990.000 đ",
+                    "price": "20.590.000 đ",
+                    "introduction": "iPhone 14 128GB Chính hãng (VN/A)",
+                    "image": "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/iphone-14-128gb-didongviet_1.jpg",
+                    "list_color": [
+                          {
+                              "color":"silver"
+                          },
+                          {
+                              "color": "black"
+                          },
+                          {
+                              "color": "white"
+                          }                 
+                      ],
+                    "capacity": [
+                          { "DiskSpace": "128gb"},
+                          { "DiskSpace": "256gb"},
+                          { "DiskSpace": "512gb"}
+                    ],
+                    "content" : "iPhone 14 Pro Chính hãng (VN/A) Với thiết kế thời thượng và các tính năng hiện đại, chiếc smartphone này sẽ mang đến cho bạn trải nghiệm đầy cảm xúc với khả năng sáng tạo bứt phá với bộ 3 camera gồm: 48MP và 2 camera 12MP, kết hợp với hiệu năng mạnh mẽ từ chipset Apple A16 Bionic 6 nhân. Bên cạnh đó, với dung lượng pin lớn cho phép người dùng trải nghiệm dài lâu. Đặt ngay để có trải nghiệm mua sắm Hơn cả Chính Hãng."
+                }
+            ]
+        },
+        {
+          "id_product": "2",
+          "name": "Điện thoại",
+          "label": "SamSung",
+          "product": [
+            {
+              "id": "1",
+              "name": "Samsung Galaxy Z Flip5 512GB",
+              "lable_product": "SamSung",
+              "reducedprice": "32.790.000 đ",
+              "price": "38.990.000 đ",
+              "introduction": "Samsung Galaxy Z Flip5 5G 512GB",
+              "image": "https://cdn-v2.didongviet.vn/files/products/2023/11/13/1/1702404033955_samsung_z_flip5_didongviet_1.png",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+              "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+              ],
+              "content" : "Samsung Galaxy Z Flip5 5G 512GB Chính Hãng (BHĐT) là chiếc điện thoại sở hữu thiết kế nổi trội và hiện đại. Đi kèm với chúng là màn hình Dynamic AMOLED 2X với độ phân giải cao ấn tượng. Không chỉ vậy, hiệu năng của máy cũng được nâng cao hơn với chipset Snapdragon 8 Gen 2 For Galaxy độc quyền. Ngoài ra, với dung lượng pin 4.400mAh mà bạn có thể dùng xuyên suốt ngày dài."
+            },
+            {
+              "id": "2",
+              "name": "Samsung Galaxy A25 128GB Chính Hãng",
+              "lable_product": "SamSung",
+              "reducedprice": "6.990.000 đ",
+              "price": "7.390.000 đ",
+              "introduction": "Samsung Galaxy A25 128GB Chính Hãng",
+              "image": "https://cdn-v2.didongviet.vn/files/products/2023/11/7/1/1701885230096_samsung_a25_vang_didongviet.png",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+              "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+               ],
+              "content" : "Samsung Galaxy A25 sở hữu thiêt kế hiện đại, nhỏ gọn với 3 màu sắc vô cùng trẻ trung, năng động. Chiếc máy sở hữu màn hình sắc nét với kích thước 6.6 inch, độ phân giải FullHD cùng tần số quét 120Hz mượt mà. Đi kèm với vi xử lý Snapdragon 695 5G, dung lượng pin 5000 mAh cùng bộ 4 camera hứa hẹn sẽ mang lại trải nghiệm tuyệt vời cho người dùng."
+            },
+            {
+              "id": "3",
+              "name": "Samsung Galaxy A04s 64GB Chính Hãng",
+              "lable_product": "SamSung",
+              "reducedprice": "2.450.000 đ",
+              "price": "3.340.000 đ",
+              "introduction": "Samsung Galaxy A04s 64GB Chính Hãng",
+              "image": "https://cdn-v2.didongviet.vn/files/products/2023/6/14/1/1689347963379_galaxy_a04s_didongviet.jpg",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+              "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+              "content" : "Samsung Galaxy A04 sở hữu thiêt kế hiện đại, nhỏ gọn với 3 màu sắc vô cùng trẻ trung, năng động. Chiếc máy sở hữu màn hình sắc nét với kích thước 6.6 inch, độ phân giải FullHD cùng tần số quét 120Hz mượt mà. Đi kèm với vi xử lý Snapdragon 695 5G, dung lượng pin 5000 mAh cùng bộ 4 camera hứa hẹn sẽ mang lại trải nghiệm tuyệt vời cho người dùng."
+            },
+            {
+              "id": "4",
+              "name": "Samsung Galaxy S23 Plus 5G 512GB Chính Hãng",
+              "lable_product": "SamSung",
+              "reducedprice": "20.450.000 đ",
+              "price": "23.340.000 đ",
+              "introduction": "Samsung Galaxy S23 Plus 5G 512GB Chính Hãng",
+              "image": "https://cdn-v2.didongviet.vn/files/products/2023/11/13/1/1702400566211_samsung_s23_kem_didongviet.png",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+              "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+              "content" : "Galaxy S23 thiết kế khung viền siêu mỏng, có 4 tuỳ chọn màu sắc tươi tắn. Hỗ trợ màn hình có độ lớn 6.41 inch cùng công nghệ AMOLED với tần số làm mới chạm mức 120Hz. Hiệu năng hoạt động dựa trên con chip Exynos 2100 mạnh mẽ, giúp xử lý tác vụ cực mượt. Bộ 3 camera 12MP, camera selfie 32MP. Dung lượng pin 4500mAh, hỗ trợ đi kèm sạc nhanh 25W và sạc không dây 15W."
+            },
+            {
+              "id": "5",
+              "name": "Samsung Galaxy Z Flip5 5G 256GB Chính Hãngg",
+              "lable_product": "SamSung",
+              "reducedprice": "19.650.000 đ",
+              "price": "21.640.000 đ",
+              "introduction": "Samsung Galaxy Z Flip5 5G 256GB Chính Hãng",
+              "image": "https://cdn-v2.didongviet.vn/files/products/2023/6/27/1/1690456511550_samsung_galaxy_z_flip5_xanh_10_didongviet.jpg",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+             "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+              "content" : "Samsung Galaxy Z Flip5 5G 512GB Chính Hãng (BHĐT) là chiếc điện thoại sở hữu thiết kế nổi trội và hiện đại. Đi kèm với chúng là màn hình Dynamic AMOLED 2X với độ phân giải cao ấn tượng. Không chỉ vậy, hiệu năng của máy cũng được nâng cao hơn với chipset Snapdragon 8 Gen 2 For Galaxy độc quyền. Ngoài ra, với dung lượng pin 4.400mAh mà bạn có thể dùng xuyên suốt ngày dài."
+            },
+            {
+              "id": "6",
+              "name": "Samsung Galaxy A15 128GB Chính Hãng",
+              "lable_product": "SamSung",
+              "reducedprice": "4.650.000 đ",
+              "price": "6.640.000 đ",
+              "introduction": "Samsung Galaxy A15 128GB Chính Hãng",
+              "image": "https://cdn-v2.didongviet.vn/files/products/2023/11/6/1/1701848863200_samsung_a15_xanh_1_didongviet_1.png",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+              "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+              "content" : "Samsung Galaxy A04 sở hữu thiêt kế hiện đại, nhỏ gọn với 3 màu sắc vô cùng trẻ trung, năng động. Chiếc máy sở hữu màn hình sắc nét với kích thước 6.6 inch, độ phân giải FullHD cùng tần số quét 120Hz mượt mà. Đi kèm với vi xử lý Snapdragon 695 5G, dung lượng pin 5000 mAh cùng bộ 4 camera hứa hẹn sẽ mang lại trải nghiệm tuyệt vời cho người dùng."
+            },
+            {
+              "id": "7",
+              "name": "Samsung Galaxy Z Fold5 5G 256GB Chính Hãng",
+              "lable_product": "SamSung",
+              "reducedprice": "33.650.000 đ",
+              "price": "36.640.000 đ",
+              "introduction": "Samsung Galaxy Z Fold5 5G 256GB Chính Hãng",
+              "image": "https://cdn-v2.didongviet.vn/files/products/2023/11/13/1/1702403695166_samsung_z_fold5_didongviet_1.png",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+              "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+              "content" : "Samsung Galaxy Z Fold5 5G 512GB Chính Hãng (BHĐT) là chiếc điện thoại sở hữu thiết kế nổi trội và hiện đại. Đi kèm với chúng là màn hình Dynamic AMOLED 2X với độ phân giải cao ấn tượng. Không chỉ vậy, hiệu năng của máy cũng được nâng cao hơn với chipset Snapdragon 8 Gen 2 For Galaxy độc quyền. Ngoài ra, với dung lượng pin 4.400mAh mà bạn có thể dùng xuyên suốt ngày dài."
+            },
+            {
+              "id": "8",
+              "name": "Samsung Galaxy S23 Plus 5G 256GB Chính Hãng",
+              "lable_product": "SamSung",
+              "reducedprice": "16.350.000 đ",
+              "price": "19.340.000 đ",
+              "introduction": "Samsung Galaxy S23 Plus 5G 256GB Chính Hãng",
+              "image": "https://cdn-v2.didongviet.vn/files/products/2023/6/17/1/1689587487942_samsung_galaxy_s23_1_didongviet_1.jpg",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+              "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+              "content" : "Samsung Galaxy S23 Plus sở hữu thiết kế hiện đại, cao cấp với màn hình rộng 6.6 inch, cùng công nghệ màn hình Dynamic AMOLED 2X, 120Hz. Máy được trang bị hiệu năng mạnh mẽ với Snapdragon 8 Gen 2, hệ điều hành Android 12 giao diện One UI 4.0. Đồng thời camera 50MP cũng là điểm nhấn đặc biệt trên máy."
+            },
+            {
+              "id": "9",
+              "name": "Samsung Galaxy S22 Plus 5G 128GB Chính Hãng",
+              "lable_product": "SamSung",
+              "reducedprice": "15.950.000 đ",
+              "price": "18.940.000 đ",
+              "introduction": "Samsung Galaxy S22 Plus 5G 128GB Chính Hãng",
+              "image": "https://cdn-v2.didongviet.vn/files/products/2023/11/13/1/1702402290528_samsung_s22_plus_hong_didongviet.png",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+              "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+              "content" : "Samsung Galaxy S22 Plus sở hữu thiết kế hiện đại, cao cấp với màn hình rộng 6.6 inch, cùng công nghệ màn hình Dynamic AMOLED 2X, 120Hz. Máy được trang bị hiệu năng mạnh mẽ với Snapdragon 8 Gen 2, hệ điều hành Android 12 giao diện One UI 4.0. Đồng thời camera 50MP cũng là điểm nhấn đặc biệt trên máy."
+            },
+            {
+              "id": "10",
+              "name": "Samsung Galaxy S23 Ultra 5G 1TB Chính Hãng",
+              "lable_product": "SamSung",
+              "reducedprice": "30.550.000 đ",
+              "price": "33.940.000 đ",
+              "introduction": "Samsung Galaxy S23 Ultra 5G 1TB Chính Hãng",
+              "image": "https://cdn-v2.didongviet.vn/files/products/2023/11/13/1/1702402914690_samsung_s2_ultra_tim_didongviet.png",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+              "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+             "content" : "Samsung Galaxy S23 Ultra 5G 1TB sở hữu thiết kế cao cấp với màn hình 6.8 inch độ phân giải 3088 x 1440 pixels, tấm nền Dynamic AMOLED 2X tần số quét 120Hz, cấu hình mạnh mẽ với vi xử lý Snapdragon 8 Gen 2. Camera chính 200MP mang lại khả năng chụp ảnh đỉnh cao hỗ trợ nhiều chế độ chụp ảnh khác nhau."
+            },
+            {
+              "id": "11",
+              "name": "Samsung Galaxy S24 Plus 5G 512GB Chính Hãng",
+              "lable_product": "SamSung",
+              "reducedprice": "28.260.000 đ",
+              "price": "29.940.000 đ",
+              "introduction": "Samsung Galaxy S24 Plus 5G 512GB Chính Hãng",
+              "image": "https://cdn-v2.didongviet.vn/files/products/2023/11/16/1/1702704567753_s23_didongviet.png",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+              "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+              "content" : "Samsung Galaxy S24 Plus 5G 256GB Chính Hãng là chiếc điện thoại S Series mới nhất mang đến trải nghiệm hình ảnh ấn tượng với kích thước lớn 6.7inch. Bên trong, thiết bị còn được trang bị chip Snapdragon 8 Gen 3/ Exynos 2400 (tùy thị trường) siêu khủng, cho phép thực hiện các tác vụ nhanh chóng và hiệu quả. Không chỉ vậy, máy còn có dung lượng pin cao 4900mAh, đảm bảo bạn có thể sử dụng liên tục trong thời gian dài."
+            },
+            {
+              "id": "12",
+              "name": "Samsung Galaxy S21 FE 5G 128GB Chính Hãng",
+              "lable_product": "SamSung",
+              "reducedprice": "9.990.000 đ",
+              "price": "11.290.000 đ",
+              "introduction": "Samsung Galaxy S21 FE 5G 128GB Chính Hãng",
+              "image": "https://cdn-v2.didongviet.vn/files/products/2023/6/17/1/1689588736877_samsung_galaxy_s21_fe_5g_didongviet_1.jpg",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+              "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+              "content" : "Samsung Galaxy S21 FE 5G thiết kế khung viền siêu mỏng, có 4 tuỳ chọn màu sắc tươi tắn. Hỗ trợ màn hình có độ lớn 6.41 inch cùng công nghệ AMOLED với tần số làm mới chạm mức 120Hz. Hiệu năng hoạt động dựa trên con chip Exynos 2100 mạnh mẽ, giúp xử lý tác vụ cực mượt. Bộ 3 camera 12MP, camera selfie 32MP. Dung lượng pin 4500mAh, hỗ trợ đi kèm sạc nhanh 25W và sạc không dây 15W."
+            }
+          ]
+        },
+        {
+          "id_product": "3",
+          "name": "Điện thoại",
+          "label": "OPPO",
+          "product": [
+            {
+              "id": "1",
+              "name": "OPPO Find N3 512GB Chính Hãng",
+              "lable_product": "OPPO",
+              "reducedprice": "44.790.000 đ",
+              "price": "48.490.000 đ",
+              "introduction": "OPPO Find N3 512GB Chính Hãng",
+              "image": "https://cdn-v2.didongviet.vn/files/products/2023/9/20/1/1697790937285_oppo_find_n3_mau_vang_diddongviet_thumb_01.jpg",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+              "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+              "content" : "OPPO Find N3 có màn hình chính rộng 7.82 inch và màn hình phụ 6.31 inch. Camera chính 50MP kết hợp với ống kính Hasselblad nâng tầm chất lượng ảnh chụp. Chip Snapdragon 8 Gen 2 và mức pin 4800mAh mang đến hiệu năng mạnh mẽ và kéo dài thời gian sử dụng suốt cả ngày dài."
+            },
+            {
+              "id": "2",
+              "name": "OPPO A76 4G 128GB Chính Hãng",
+              "lable_product": "OPPO",
+              "reducedprice": "4.690.000 đ",
+              "price": "5.390.000 đ",
+              "introduction": "OPPO A76 4G 128GB Chính Hãng",
+              "image": "https://cdn-v2.didongviet.vn/files/products/2023/8/7/1/1694080797717_oppo_a76_anh_thumb_bh18tdq_didongviet.jpg",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+              "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+             "content" : "OPPO A76 4G 128GB sở hữu thiết kế trẻ trung với màn hình IPS LCD rộng 6.56 inch, hiệu năng mạnh mẽ với vi xử lý Snapdragon 680, camera sau 12MP với nhiều chế độ chụp ảnh chuyên nghiệp cùng dung lượng pin 5000mAh hỗ trợ công nghệ sạc nhanh SuperVOOC."
+            },
+            {
+              "id": "3",
+              "name": "OPPO Reno8 T 5G 128GB Chính Hãng",
+              "lable_product": "OPPO",
+              "reducedprice": "6.290.000 đ",
+              "price": "8.340.000 đ",
+              "introduction": "OPPO Reno8 T 5G 128GB Chính Hãng",
+              "image": "https://cdn-v2.didongviet.vn/files/products/2023/8/7/1/1694082601807_oppo_reno8_t_5g_thumb_bh18tdq_didongviet.jpg",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+              "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+             "content" : "OPPO Reno8 T BHDT sở hữu thiết kế mỏng nhẹ và vuông vức với trọng lượng 182,5g. Màn hình điện thoại hoạt động trên tấm nền AMOLED rộng 6.4 inch. Hiệu năng hoạt động mạnh mẽ nhờ được trang bị chip Helio G99, dung lượng pin 5000mAh tích hợp sạc nhanh lên đến 33W. Chưa kể camera chính 100MP mang đến cho người dùng những thước phim, hình ảnh sắc nét và chuyên nghiệp."
+            },
+            {
+              "id": "4",
+              "name": "OPPO Reno8 Z 5G 256GB Chính Hãng (Đã Kích Hoạt)",
+              "lable_product": "OPPO",
+              "reducedprice": "5.290.000 đ",
+              "price": "7.340.000 đ",
+              "introduction": "OPPO Reno8 Z 5G 256GB Chính Hãng (Đã Kích Hoạt)",
+              "image": "https://cdn-v2.didongviet.vn/files/media/catalog/product/o/p/oppo-reno8-z-256gb-5g-da-kich-hoat-didongviet.jpg",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+              "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+             "content" : "OPPO Reno8 Z 5G 256GB sở hữu một thiết kế trẻ trung, sang trọng. Được trang bị màn AMOLED hình rộng 6.43 inches, có độ phân giải Full HD. Bên cạnh đó, chiếc smartphone này cũng có cấu hình hoạt động mạnh mẽ nhờ được trang bị chip Qualcomm Snapdragon 695 5G. Dung lượng pin 4500mAh cho phép trải nghiệm bền bỉ, không gián đoạn."
+            },
+            {
+              "id": "5",
+              "name": "OPPO A57 128GB Chính Hãng",
+              "lable_product": "OPPO",
+              "reducedprice": "3.790.000 đ",
+              "price": "5.940.000 đ",
+              "introduction": "OPPO A57 128GB Chính Hãng",
+              "image": "https://cdn-v2.didongviet.vn/files/products/2023/8/7/1/1694080762905_oppo_a57_anh_thumb_bh18tdq_didongviet.jpg",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+              "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+              "content" : "OPPO A57 128GB sở hữu thiết kế hiện đại, tinh tế và vô cùng mỏng với độ dày chỉ 8.4mm. Máy được trang bị màn hình IPS 6.56, cấu hình mạnh mẽ với vi xử lý MediaTek Helio G35. OPPO A57 còn được tich hợp hệ thống camera kép chụp hình sắc nét, hỗ trợ nhiều chế độ chụp ảnh khác nhau."
+            },
+            {
+              "id": "6",
+              "name": "OPPO Reno10 5G 256GB Chính Hãng",
+              "lable_product": "OPPO",
+              "reducedprice": "10.490.000 đ",
+              "price": "13.940.000 đ",
+              "introduction": "OPPO Reno10 5G 256GB Chính Hãng",
+              "image": "https://cdn-v2.didongviet.vn/files/products/2023/8/7/1/1694082771929_oppo_reno10_5g_thumb_bh18tdq_didongviet.jpg",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+              "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+              "content" : "OPPO Reno10 5G 256GB Chính Hãng tiếp tục trở thành chuyên gia chân dung đời mới với camera tele 32MP. Điện thoại sở hữu thiết kế thời trang và màn hình siêu nét có tần số quét 120Hz. Chip Dimensity 7050 5G cho khả năng xử lý mượt mà đi kèm bộ nhớ lớn. Dung lượng pin 5000mAh và công suất sạc nhanh 67W kéo dài hoạt động cả ngày dài."
+            },
+            {
+              "id": "7",
+              "name": "OPPO A58 4G 128GB Chính Hãng",
+              "lable_product": "OPPO",
+              "reducedprice": "4.490.000 đ",
+              "price": "6.940.000 đ",
+              "introduction": "OPPO A58 4G 128GB Chính Hãng",
+              "image": "https://cdn-v2.didongviet.vn/files/products/2023/8/7/1/1694080376462_oppo_a58_anh_thumb_bh18tdq_didongviet.jpg",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+              "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+              "content" : "OPPO A58 4G sở hữu thiết kế tuyệt đẹp với bề mặt tinh thể mượt mà và màu sắc được lấy cảm hứng từ lụa. Thiết kế gọn nhẹ với màn hình rộng 6.72 inch có trọng lượng 192g. Hiệu năng ổn định từ chip Helio G85 đi kèm dung lượng RAM 6GB cho khả năng chạy đa nhiệm lý tưởng trong tầm giá. Dung lượng pin 5000 mAh và sạc nhanh 33W hỗ trợ sử dụng điện thoại cả ngày dài."
+            },
+            {
+              "id": "8",
+              "name": "OPPO A57 128GB Chính Hãng",
+              "lable_product": "OPPO",
+              "reducedprice": "3.790.000 đ",
+              "price": "5.940.000 đ",
+              "introduction": "OPPO A57 128GB Chính Hãng",
+              "image": "https://cdn-v2.didongviet.vn/files/products/2023/8/7/1/1694080762905_oppo_a57_anh_thumb_bh18tdq_didongviet.jpg",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+              "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+              "content" : "OPPO A57 sở hữu thiết kế tuyệt đẹp với bề mặt tinh thể mượt mà và màu sắc được lấy cảm hứng từ lụa. Thiết kế gọn nhẹ với màn hình rộng 6.72 inch có trọng lượng 192g. Hiệu năng ổn định từ chip Helio G85 đi kèm dung lượng RAM 6GB cho khả năng chạy đa nhiệm lý tưởng trong tầm giá. Dung lượng pin 5000 mAh và sạc nhanh 33W hỗ trợ sử dụng điện thoại cả ngày dài."
+            },
+            {
+              "id": "9",
+              "name": "OPPO A17K 64GB Chính Hãng",
+              "lable_product": "OPPO",
+              "reducedprice": "2.290.000 đ",
+              "price": "3.940.000 đ",
+              "introduction": "OPPO A17K 64GB Chính Hãng",
+              "image": "https://cdn-v2.didongviet.vn/files/products/2023/8/7/1/1694081619593_oppo_a17k_anh_thumb_bh18tdq_didongviet.jpg",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+              "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+              "content" : "OPPO A17 sở hữu thiết kế tuyệt đẹp với bề mặt tinh thể mượt mà và màu sắc được lấy cảm hứng từ lụa. Thiết kế gọn nhẹ với màn hình rộng 6.72 inch có trọng lượng 192g. Hiệu năng ổn định từ chip Helio G85 đi kèm dung lượng RAM 6GB cho khả năng chạy đa nhiệm lý tưởng trong tầm giá. Dung lượng pin 5000 mAh và sạc nhanh 33W hỗ trợ sử dụng điện thoại cả ngày dài."
+            },
+            {
+              "id": "9",
+              "name": "OPPO Reno8 T 5G 128GB Chính Hãng",
+              "lable_product": "OPPO",
+              "reducedprice": "6.290.000 đ",
+              "price": "8.940.000 đ",
+              "introduction": "OPPO Reno8 T 5G 128GB Chính Hãng",
+              "image": "https://cdn-v2.didongviet.vn/files/products/2023/8/7/1/1694082601807_oppo_reno8_t_5g_thumb_bh18tdq_didongviet.jpg",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+              "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+              "content" : "OPPO Reno8 Chính Hãng tiếp tục trở thành chuyên gia chân dung đời mới với camera tele 32MP. Điện thoại sở hữu thiết kế thời trang và màn hình siêu nét có tần số quét 120Hz. Chip Dimensity 7050 5G cho khả năng xử lý mượt mà đi kèm bộ nhớ lớn. Dung lượng pin 5000mAh và công suất sạc nhanh 67W kéo dài hoạt động cả ngày dài."
+            },
+            {
+              "id": "10",
+              "name": "OPPO Reno8 T 256GB Chính Hãng",
+              "lable_product": "OPPO",
+              "reducedprice": "9.290.000 đ",
+              "price": "13.940.000 đ",
+              "introduction": "OPPO Reno8 T 256GB Chính Hãng",
+              "image": "https://cdn-v2.didongviet.vn/files/products/2023/8/7/1/1694082638901_oppo_reno8_t_4g_anh_thumb_bh18tdq_didongviet.jpg",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+              "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+              "content" : "OPPO Reno8 Chính Hãng tiếp tục trở thành chuyên gia chân dung đời mới với camera tele 32MP. Điện thoại sở hữu thiết kế thời trang và màn hình siêu nét có tần số quét 120Hz. Chip Dimensity 7050 5G cho khả năng xử lý mượt mà đi kèm bộ nhớ lớn. Dung lượng pin 5000mAh và công suất sạc nhanh 67W kéo dài hoạt động cả ngày dài."
+            },
+            {
+              "id": "11",
+              "name": "OPPO Reno8 Z 5G 256GB Chính Hãng (Đã Kích Hoạt)",
+              "lable_product": "OPPO",
+              "reducedprice": "12.290.000 đ",
+              "price": "14.940.000 đ",
+              "introduction": "OPPO Reno8 Z 5G 256GB Chính Hãng (Đã Kích Hoạt)",
+              "image": "https://cdn-v2.didongviet.vn/files/media/catalog/product/o/p/oppo-reno8-z-256gb-5g-da-kich-hoat-didongviet.jpg",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+              "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+              "content" : "OPPO Reno8 Z 5G 256GB sở hữu một thiết kế trẻ trung, sang trọng. Được trang bị màn AMOLED hình rộng 6.43 inches, có độ phân giải Full HD. Bên cạnh đó, chiếc smartphone này cũng có cấu hình hoạt động mạnh mẽ nhờ được trang bị chip Qualcomm Snapdragon 695 5G. Dung lượng pin 4500mAh cho phép trải nghiệm bền bỉ, không gián đoạn."
+            },
+            {
+              "id": "12",
+              "name": "OPPO Find N2 Flip 256GB Chính Hãng",
+              "lable_product": "OPPO",
+              "reducedprice": "16.990.000 đ",
+              "price": "19.290.000 đ",
+              "introduction": "OPPO Find N2 Flip 256GB Chính Hãng",
+              "image": "https://cdn-v2.didongviet.vn/files/products/2023/8/7/1/1694081839623_oppo_find_n2_flip_thumb_bh18tdq_didongviet.jpg",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+              "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+              "content" : "OPPO Find N2 Flip 256GB sở hữu thiết kế trẻ trung, hiện đại. Chiếc smartphone này được trang bị màn hình AMOLED rộng 6.8 inch với độ phân giải Full HD mang đến những trải nghiệm mượt mà. Bên cạnh đó, nó còn có khả năng hoạt động mạnh mẽ cho người dùng thoải mái sử dụng các tác vụ từ cơ bản đến nâng cao."
+            }
+          ]
+        },
+        {
+          "id_product": "4",
+          "name": "Điện thoại",
+          "label": "Xiaomi",
+          "product": [
+            {
+              "id": "1",
+              "name": "Xiaomi Redmi Note 13 Pro 256GB Chính Hãng",
+              "lable_product": "Xiaomi",
+              "reducedprice": "3.190.000 đ",
+              "price": "5.260.000 đ",
+              "introduction": "Xiaomi Redmi Note 13 Pro 256GB Chính Hãng",
+              "image": "https://cdn-v2.didongviet.vn/files/products/2023/9/4/1/1696356355000_xiaomi_redmi_note_13_pro_white_didongviet_1.png",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+             "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+              "content" : "Xiaomi Redmi Note 13 sở hữu ngoại hình trẻ trung, thiết kế gia công tỉ mỉ. Mặt lưng được hoàn thiện vuông vức. Bên cạnh đó, chiếc smartphone này cũng sở hữu tấm nền AMOLED rộng 6.67 inch với tần số quét 120Hz. Với chipset Snapdragon 685 8 nhân mang đến cho bạn khả năng xử lý các tác vụ mượt mà, nhanh chóng."
+            },
+            {
+              "id": "2",
+              "name": "Xiaomi Redmi Note 13 Pro Plus 256GB Chính Hãng",
+              "lable_product": "Xiaomi",
+              "reducedprice": "5.990.000 đ",
+              "price": "7.390.000 đ",
+              "introduction": "Xiaomi Redmi Note 13 Pro Plus 256GB Chính Hãng",
+              "image": "https://cdn-v2.didongviet.vn/files/products/2023/9/11/1/1697012051734_xiaomi_redmi_note_13_pro_plus_white_didongviet_1.png",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+              "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+              "content" : "Xiaomi Redmi Note 13 sở hữu ngoại hình trẻ trung, thiết kế gia công tỉ mỉ. Mặt lưng được hoàn thiện vuông vức. Bên cạnh đó, chiếc smartphone này cũng sở hữu tấm nền AMOLED rộng 6.67 inch với tần số quét 120Hz. Với chipset Snapdragon 685 8 nhân mang đến cho bạn khả năng xử lý các tác vụ mượt mà, nhanh chóng."
+            },
+            {
+              "id": "3",
+              "name": "Xiaomi Redmi Note 13 128GB Chính Hãng",
+              "lable_product": "Xiaomi",
+              "reducedprice": "9.290.000 đ",
+              "price": "11.310.000 đ",
+              "introduction": "Xiaomi Redmi Note 13 128GB Chính Hãng",
+              "image": "https://cdn-v2.didongviet.vn/files/products/2023/9/1/1/1696156349750_xiaomi_redmi_note_13_blue_didongviet_1.png",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                    ],
+              "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+              "content" : "Xiaomi Redmi Note 13 sở hữu ngoại hình trẻ trung, thiết kế gia công tỉ mỉ. Mặt lưng được hoàn thiện vuông vức. Bên cạnh đó, chiếc smartphone này cũng sở hữu tấm nền AMOLED rộng 6.67 inch với tần số quét 120Hz. Với chipset Snapdragon 685 8 nhân mang đến cho bạn khả năng xử lý các tác vụ mượt mà, nhanh chóng."
+            },
+            {
+              "id": "4",
+              "name": "Xiaomi 13 Lite 256GB Chính Hãng (BH19T)",
+              "lable_product": "Xiaomi",
+              "reducedprice": "8.290.000 đ",
+              "price": "10.310.000 đ",
+              "introduction": "Xiaomi 13 Lite 256GB Chính Hãng (BH19T)",
+              "image": "https://cdn-v2.didongviet.vn/files/products/2023/8/9/1/1694249735298_xiaomi_13_lite_256gb_thumb_logo_bh19t_didongviet.jpg",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+              "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+             "content" : "Xiaomi 13 Lite 256GB có thiết kế sang trọng, màn hình rộng 6.55 inch, tấm nền AMOLED với độ phân giải Full HD+ mang đến trải nghiệm mãn nhãn. Bên cạnh đó, nó còn được trang bị cụm camera có độ phân giải lên đến 64 MP giúp ghi lại những khoảng khắc đáng nhớ. Đồng thời, máy còn sở hữu hiệu năng mạnh mẽ từ chipset Snapdragon 7 Gen 1."
+            },
+            {
+              "id": "5",
+              "name": "Xiaomi 13 Lite 256GB Chính Hãng",
+              "lable_product": "Xiaomi",
+              "reducedprice": "11.290.000 đ",
+              "price": "13.310.000 đ",
+              "introduction": "Xiaomi 13 Lite 256GB Chính Hãng",
+              "image": "https://cdn-v2.didongviet.vn/files/products/2023/8/9/1/1694250200034_xiaomi_13_lite_256gb_thumb_logo_bh19t_didongviet.jpg",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+              "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+             "content" : "Xiaomi 13 Lite 256GB có thiết kế sang trọng, màn hình rộng 6.55 inch, tấm nền AMOLED với độ phân giải Full HD+ mang đến trải nghiệm mãn nhãn. Bên cạnh đó, nó còn được trang bị cụm camera có độ phân giải lên đến 64 MP giúp ghi lại những khoảng khắc đáng nhớ. Đồng thời, máy còn sở hữu hiệu năng mạnh mẽ từ chipset Snapdragon 7 Gen 1."
+            },
+            {
+              "id": "6",
+              "name": "Xiaomi Redmi Note 12S 256GB Chính Hãng",
+              "lable_product": "Xiaomi",
+              "reducedprice": "5.290.000 đ",
+              "price": "6.310.000 đ",
+              "introduction": "Xiaomi Redmi Note 12S 256GB Chính Hãng",
+              "image": "https://cdn-v2.didongviet.vn/files/products/2023/8/9/1/1694250305712_xiaomi_redmi_note_12s_256gb_thumb_logo_bh19t_didongviet.jpg",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+              "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+             "content" : "Xiaomi Redmi Note 12 có thiết kế vuông vức với độ dày 8mm và nặng khoảng 187g. Màn hình rộng lên đến 6.67 inch đi kèm tần số quét 120Hz cho trải nghiệm vuốt chạm mượt mà. Đặc biệt, camera chính lên đến 200MP và hiệu năng vượt trội từ chip Snapdragon 7s Gen 2 chắc chắn sẽ làm hài lòng người dùng."
+            },
+            {
+              "id": "7",
+              "name": "Xiaomi Redmi Note 12 128GB Chính Hãng",
+              "lable_product": "Xiaomi",
+              "reducedprice": "3.390.000 đ",
+              "price": "5.910.000 đ",
+              "introduction": "Xiaomi Redmi Note 12 128GB Chính Hãng",
+              "image": "https://cdn-v2.didongviet.vn/files/products/2023/8/9/1/1694250086524_xiaomi_redmi_note_12_4g_4gb_128gb_thumb_logo_bh19t_didongviet.jpg",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+              "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+             "content" : "Xiaomi Redmi Note 12 có thiết kế vuông vức với độ dày 8mm và nặng khoảng 187g. Màn hình rộng lên đến 6.67 inch đi kèm tần số quét 120Hz cho trải nghiệm vuốt chạm mượt mà. Đặc biệt, camera chính lên đến 200MP và hiệu năng vượt trội từ chip Snapdragon 7s Gen 2 chắc chắn sẽ làm hài lòng người dùng."
+            },
+            {
+              "id": "8",
+              "name": "Xiaomi Redmi Note 12 Pro 5G 256GB Chính Hãng",
+              "lable_product": "Xiaomi",
+              "reducedprice": "13.390.000 đ",
+              "price": "15.910.000 đ",
+              "introduction": "Xiaomi Redmi Note 12 Pro 5G 256GB Chính Hãng",
+              "image": "https://cdn-v2.didongviet.vn/files/products/2023/8/9/1/1694250346244_xiaomi_redmi_note_12_pro_5g_256gb_thumb_logo_bh19t_didongviet.jpg",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+              "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+              "content" : "Xiaomi Redmi Note 12 có thiết kế vuông vức với độ dày 8mm và nặng khoảng 187g. Màn hình rộng lên đến 6.67 inch đi kèm tần số quét 120Hz cho trải nghiệm vuốt chạm mượt mà. Đặc biệt, camera chính lên đến 200MP và hiệu năng vượt trội từ chip Snapdragon 7s Gen 2 chắc chắn sẽ làm hài lòng người dùng."
+            },
+            {
+              "id": "9",
+              "name": "Xiaomi Redmi Note 12S 256GB Chính Hãng",
+              "lable_product": "Xiaomi",
+              "reducedprice": "5.390.000 đ",
+              "price": "6.930.000 đ",
+              "introduction": "Xiaomi Redmi Note 12S 256GB Chính Hãng",
+              "image": "https://cdn-v2.didongviet.vn/files/products/2023/8/9/1/1694249682236_xiaomi_redmi_note_12s_256gb_thumb_logo_bh19t_didongviet.jpg",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+             "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+              "content" : "Xiaomi Redmi Note 12S có thiết kế vuông vức với độ dày 8mm và nặng khoảng 187g. Màn hình rộng lên đến 6.67 inch đi kèm tần số quét 120Hz cho trải nghiệm vuốt chạm mượt mà. Đặc biệt, camera chính lên đến 200MP và hiệu năng vượt trội từ chip Snapdragon 7s Gen 2 chắc chắn sẽ làm hài lòng người dùng."
+            },
+            {
+              "id": "10",
+              "name": "Xiaomi Redmi Note 12 8GB/128GB Chính Hãng",
+              "lable_product": "Xiaomi",
+              "reducedprice": "4.390.000 đ",
+              "price": "7.930.000 đ",
+              "introduction": "Xiaomi Redmi Note 12 8GB/128GB Chính Hãng",
+              "image": "https://cdn-v2.didongviet.vn/files/products/2023/8/9/1/1694250434950_xiaomi_redmi_note_12_4g_8gb_128gb_thumb_logo_bh19t_didongviet.jpg",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+             "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+             "content" : "Xiaomi Redmi Note 12 có thiết kế vuông vức với độ dày 8mm và nặng khoảng 187g. Màn hình rộng lên đến 6.67 inch đi kèm tần số quét 120Hz cho trải nghiệm vuốt chạm mượt mà. Đặc biệt, camera chính lên đến 200MP và hiệu năng vượt trội từ chip Snapdragon 7s Gen 2 chắc chắn sẽ làm hài lòng người dùng."
+            },
+            {
+              "id": "11",
+              "name": "Xiaomi Redmi Note 12S 256GB Chính Hãng",
+              "lable_product": "Xiaomi",
+              "reducedprice": "10.390.000 đ",
+              "price": "13.930.000 đ",
+              "introduction": "Xiaomi Redmi Note 12S 256GB Chính Hãng",
+              "image": "https://cdn-v2.didongviet.vn/files/products/2023/8/9/1/1694250305712_xiaomi_redmi_note_12s_256gb_thumb_logo_bh19t_didongviet.jpg",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+              "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+             "content" : "Xiaomi Redmi Note 12S có thiết kế vuông vức với độ dày 8mm và nặng khoảng 187g. Màn hình rộng lên đến 6.67 inch đi kèm tần số quét 120Hz cho trải nghiệm vuốt chạm mượt mà. Đặc biệt, camera chính lên đến 200MP và hiệu năng vượt trội từ chip Snapdragon 7s Gen 2 chắc chắn sẽ làm hài lòng người dùng."
+            },
+            {
+              "id": "12",
+              "name": "Xiaomi 13T 256GB Chính Hãng",
+              "lable_product": "Xiaomi",
+              "reducedprice": "11.990.000 đ",
+              "price": "13.290.000 đ",
+              "introduction": "Xiaomi 13T 256GB Chính Hãng",
+              "image": "https://cdn-v2.didongviet.vn/files/products/2023/10/3/1/1698981420421_1696677849461_xiaomi_13t_green_didongviet_1.png",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+              "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+             "content" : "Xiaomi 13T sở hữu hệ thống camera Leica chuyên nghiệp hỗ trợ chụp ảnh chất lượng cao. Thiết kế mỏng nhẹ cho trải nghiệm cầm nắm đã tay và chắc chắn. Đặc biệt, chip xử lý thế hệ mới từ nhà Mediatek cũng hứa hẹn mang đến hiệu năng tuyệt vời."
+            }
+          ]
+        }
+        ]
+    },
+    {
+      "id": "2",
+      "type": "Macbook",
+      "product": [
+        {
+            "id_product": "1",
+            "name": "Macbook",
+            "label": "Macbook",
+            "product": [
+            {
+              "id": "1",
+              "name": "MacBook Air M1 2020 13 inch | 8GB/256GB",
+              "lable_product": "Macbook",
+              "reducedprice": "18.790.000 đ",
+              "price": "21.390.000 đ",
+              "introduction": "MacBook Air M1 2020 13 inch | 8GB/256GB",
+              "image": "https://cdn-v2.didongviet.vn/files/products/2023/3/21/1/1682044807859_thumb_macbook_air_m1_8gb_256gb_didongviet.jpg",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+              "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+              "content" : "MacBook Air M1 2020 Chính hãng. Thiết bị có kiểu dáng mỏng nhẹ, màn hình lớn 13 inch, trang bị tấm nền Retina display, IPS, LED Backlit. MacBook Air có cấu hình hoạt động mượt mà, đa tác vụ nhanh nhạy với chipset khủng M1. RAM 8GB và bộ nhớ lưu trữ rộng rãi 256GB."
+            },
+            {
+              "id": "2",
+              "name": "MacBook Air M2 13-inch 2022 | 8GB/256GB",
+              "lable_product": "Macbook",
+              "reducedprice": "26.290.000 đ",
+              "price": "29.690.000 đ",
+              "introduction": "MacBook Air M2 13-inch 2022 | 8GB/256GB",
+              "image": "https://cdn-v2.didongviet.vn/files/products/2023/3/21/1/1682044876951_thumb_macbook_air_m2_8gb_256gb_didongviet.jpg",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+              "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+              "content" : "MacBook Air M2 Chính hãng. Thiết bị có kiểu dáng mỏng nhẹ, màn hình lớn 13 inch, trang bị tấm nền Retina display, IPS, LED Backlit. MacBook Air có cấu hình hoạt động mượt mà, đa tác vụ nhanh nhạy với chipset khủng M1. RAM 8GB và bộ nhớ lưu trữ rộng rãi 256GB."
+            },
+            {
+              "id": "3",
+              "name": "MacBook Pro M2 Pro 14 inch 2023 | 16GB/512GB",
+              "lable_product": "Macbook",
+              "reducedprice": "30.990.000 đ",
+              "price": "32.340.000 đ",
+              "introduction": "MacBook Pro M2 Pro 2023 | 16GB/512GB",
+              "image": "https://cdn-v2.didongviet.vn/files/media/catalog/product/m/a/macbook-pro-14-inch-m2-pro-2023-512gb-didongviet_2x.png",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+              "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+             "content" : "MacBook Pro M2 Pro 2023 | 16GB/512GB là máy mới 100%, thiết bị có kiểu dáng mỏng nhẹ, màn hình lớn 14.2 inch, trang bị tấm nền Liquid Retina XDR. MacBook Pro có cấu hình hoạt động mượt mà, đa tác vụ nhanh nhạy với chipset siêu khủng M2 Pro. ROM 16GB và bộ nhớ lưu trữ rộng rãi 512GB. Thời lượng pin 18 giờ."
+            },
+            {
+              "id": "4",
+              "name": "MacBook Pro M2 Max 16 inch 2023 | 32GB/1TB",
+              "lable_product": "Macbook",
+              "reducedprice": "44.990.000 đ",
+              "price": "48.340.000 đ",
+              "introduction": "MacBook Pro M2 Max 16 inch 2023 | 32GB/1TB",
+              "image": "https://cdn-v2.didongviet.vn/files/media/catalog/product/m/a/macbook-pro-16-inch-m2-max-2023-1tb-didongviet_2x.png",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+              "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+              "content" : "MacBook Pro M2 là máy mới 100%, thiết bị có kiểu dáng mỏng nhẹ, màn hình lớn 14.2 inch, trang bị tấm nền Liquid Retina XDR. MacBook Pro có cấu hình hoạt động mượt mà, đa tác vụ nhanh nhạy với chipset siêu khủng M2 Pro. ROM 16GB và bộ nhớ lưu trữ rộng rãi 512GB. Thời lượng pin 18 giờ."
+            },
+            {
+              "id": "5",
+              "name": "MacBook Air M2 15-inch 2023 | 8GB/512GB",
+              "lable_product": "Macbook",
+              "reducedprice": "35.690.000 đ",
+              "price": "38.940.000 đ",
+              "introduction": "MacBook Air M2 15-inch 2023 | 8GB/512GB",
+              "image": "https://cdn-v2.didongviet.vn/files/products/2023/8/15/1/1694764490239_thumb_macbook_air_m2_2023_512gb_sac_70w_didongviet.jpg",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+              "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+             "content" : "Macbook Air M2 Chính hãng. Thiết bị có kiểu dáng mỏng nhẹ, màn hình lớn 13.6 inch, trang bị tấm nền Liquid Retina IPS LCD. MacBook Air có cấu hình hoạt động mượt mà, đa tác vụ nhanh nhạy với chipset siêu khủng M2. Camera trước có độ phân giải lần lượt là 12MP + 10MP + TOF 3D LiDAR. RAM 8GB và bộ nhớ lưu trữ rộng rãi 256GB."
+            },
+            {
+              "id": "6",
+              "name": "MacBook Pro 16-inch 2021 | M1 Pro 16GB/1TB",
+              "lable_product": "Macbook",
+              "reducedprice": "58.990.000 đ",
+              "price": "61.940.000 đ",
+              "introduction": "MacBook Pro 16-inch 2021 | M1 Pro 16GB/1TB",
+              "image": "https://cdn-v2.didongviet.vn/files/media/catalog/product/m/a/macbook-pro-16-inch-2021-m1-pro-16gb-1tb-chinh-hang-didongviet.jpg",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+              "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+             "content" : "MacBook Pro 16 inch | 16GB/512GB là máy mới 100%. Thiết bị có kiểu dáng mỏng nhẹ, màn hình lớn 14.2 inch, trang bị tấm nền Liquid Retina XDR. MacBook Pro có cấu hình hoạt động mượt mà, đa tác vụ nhanh nhạy với chipset siêu khủng M2 Pro. ROM 16GB và bộ nhớ lưu trữ rộng rãi 512GB. Thời lượng pin 18 giờ."
+            },
+            {
+              "id": "7",
+              "name": "MacBook Pro M3 14 inch 2023 | 8GB/512GB",
+              "lable_product": "Macbook",
+              "reducedprice": "39.390.000 đ",
+              "price": "42.940.000 đ",
+              "introduction": "MacBook Pro M3 14 inch 2023 | 8GB/512GB",
+              "image": "https://cdn-v2.didongviet.vn/files/products/2023/9/31/1/1698737346168_thumb_macbook_pro_14_inch_m3_512gb_didongviet.jpg",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+              "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+              "content" : "MacBook Pro M3 là máy mới 100%. Thiết bị có kiểu dáng mỏng nhẹ, màn hình lớn 14.2 inch, trang bị tấm nền Liquid Retina XDR. MacBook Pro có cấu hình hoạt động mượt mà, đa tác vụ nhanh nhạy với chipset siêu khủng M2 Pro. ROM 16GB và bộ nhớ lưu trữ rộng rãi 512GB. Thời lượng pin 18 giờ."
+            },
+            {
+              "id": "8",
+              "name": "MacBook Pro M3 Max 16 inch 2023 | 36GB/1TB",
+              "lable_product": "Macbook",
+              "reducedprice": "88.790.000 đ",
+              "price": "90.940.000 đ",
+              "introduction": "MacBook Pro M3 Max 16 inch 2023 | 36GB/1TB",
+              "image": "https://cdn-v2.didongviet.vn/files/products/2023/9/31/1/1698736740790_macbook_pro_16_inch_m3_max_1tb_gpu_30_didongviet.jpg",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+              "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+             "content" : "MacBook Pro M3 Max là máy mới 100%. Thiết bị có kiểu dáng mỏng nhẹ, màn hình lớn 14.2 inch, trang bị tấm nền Liquid Retina XDR. MacBook Pro có cấu hình hoạt động mượt mà, đa tác vụ nhanh nhạy với chipset siêu khủng M2 Pro. ROM 16GB và bộ nhớ lưu trữ rộng rãi 512GB. Thời lượng pin 18 giờ."
+            },
+            {
+              "id": "8",
+              "name": "MacBook Pro 16-inch 2021 | M1 Max 32GB/1TB",
+              "lable_product": "Macbook",
+              "reducedprice": "65.590.000 đ",
+              "price": "69.940.000 đ",
+              "introduction": "MacBook Pro 16-inch 2021 | M1 Max 32GB/1TB",
+              "image": "https://cdn-v2.didongviet.vn/files/media/catalog/product/m/a/macbook-pro-16-inch-2021-m1-max-32gb-1tb-didongviet_1.jpg",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+              "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+             "content" : "MacBook Pro 16-inch là máy mới 100%. Thiết bị có kiểu dáng mỏng nhẹ, màn hình lớn 14.2 inch, trang bị tấm nền Liquid Retina XDR. MacBook Pro có cấu hình hoạt động mượt mà, đa tác vụ nhanh nhạy với chipset siêu khủng M2 Pro. ROM 16GB và bộ nhớ lưu trữ rộng rãi 512GB. Thời lượng pin 18 giờ."
+            },
+            {
+              "id": "9",
+              "name": "MacBook Pro M3 Max 14 inch 2023 | 36GB/1TB",
+              "lable_product": "Macbook",
+              "reducedprice": "78.890.000 đ",
+              "price": "80.630.000 đ",
+              "introduction": "MacBook Pro M3 Max 14 inch 2023 | 36GB/1TB",
+              "image": "https://cdn-v2.didongviet.vn/files/products/2023/9/31/1/1698734738462_thumb_macbook_pro_14_inch_m3_max_didongviet.jpg",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+              "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+             "content" : "MacBook Pro M3 Max là máy mới 100%. Thiết bị có kiểu dáng mỏng nhẹ, màn hình lớn 14.2 inch, trang bị tấm nền Liquid Retina XDR. MacBook Pro có cấu hình hoạt động mượt mà, đa tác vụ nhanh nhạy với chipset siêu khủng M2 Pro. ROM 16GB và bộ nhớ lưu trữ rộng rãi 512GB. Thời lượng pin 18 giờ."
+            },
+            {
+              "id": "10",
+              "name": "MacBook Pro 13-inch 2022 | M2 8GB/256GB",
+              "lable_product": "Macbook",
+              "reducedprice": "58.890.000 đ",
+              "price": "61.630.000 đ",
+              "introduction": "MacBook Pro 13-inch 2022 | M2 8GB/256GB",
+              "image": "https://cdn-v2.didongviet.vn/files/products/2023/4/15/1/1684140297189_thumb_macbook_pro_m2_didongviet.jpg",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+              "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+             "content" : "MacBook Pro 13-inch là máy mới 100%. Thiết bị có kiểu dáng mỏng nhẹ, màn hình lớn 14.2 inch, trang bị tấm nền Liquid Retina XDR. MacBook Pro có cấu hình hoạt động mượt mà, đa tác vụ nhanh nhạy với chipset siêu khủng M2 Pro. ROM 16GB và bộ nhớ lưu trữ rộng rãi 512GB. Thời lượng pin 18 giờ."
+            },
+            {
+              "id": "11",
+              "name": "MacBook Pro 16 inch M2 Pro 2023 | 16GB/1TB",
+              "lable_product": "Macbook",
+              "reducedprice": "61.660.000 đ",
+              "price": "65.980.000 đ",
+              "introduction": "MacBook Pro 16 inch M2 Pro 2023 | 16GB/1TB",
+              "image": "https://cdn-v2.didongviet.vn/files/media/catalog/product/m/a/macbook-pro-16-inch-m2-pro-2023-1tb-didongviet_2x.png",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+              "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+              "content" : "MacBook Pro 16 inch là máy mới 100%. Thiết bị có kiểu dáng mỏng nhẹ, màn hình lớn 14.2 inch, trang bị tấm nền Liquid Retina XDR. MacBook Pro có cấu hình hoạt động mượt mà, đa tác vụ nhanh nhạy với chipset siêu khủng M2 Pro. ROM 16GB và bộ nhớ lưu trữ rộng rãi 512GB. Thời lượng pin 18 giờ."
+            },
+            {
+              "id": "12",
+              "name": "MacBook Pro M3 Pro 14 inch 2023 | 18GB/512GB",
+              "lable_product": "Macbook",
+              "reducedprice": "36.990.000 đ",
+              "price": "40.290.000 đ",
+              "introduction": "MacBook Pro M3 Pro 14 inch 2023 | 18GB/512GB",
+              "image": "https://cdn-v2.didongviet.vn/files/products/2023/9/31/1/1698734007966_thumb_macbook_pro_14_inch_m3_pro512gb_didongviet.jpg",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+              "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+             "content" : "MacBook Pro 16-inch là máy mới 100%. Thiết bị có kiểu dáng mỏng nhẹ, màn hình lớn 14.2 inch, trang bị tấm nền Liquid Retina XDR. MacBook Pro có cấu hình hoạt động mượt mà, đa tác vụ nhanh nhạy với chipset siêu khủng M2 Pro. ROM 16GB và bộ nhớ lưu trữ rộng rãi 512GB. Thời lượng pin 18 giờ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "type": "ipad",
+      "product": [
+        {
+          "id_product": "1",
+          "name": "Ipad",
+          "label": "Ipad",
+          "product": [
+            {
+              "id": "1",
+              "name": "iPad Pro M2 11-inch (2022) | 1TB Wifi",
+              "lable_product": "Ipad",
+              "reducedprice": "38.790.000 đ",
+              "price": "41.390.000 đ",
+              "introduction": "iPad Pro M2 11-inch (2022) | 1TB Wifi ",
+              "image": "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/ipad-pro-11-inch-m2-128gb-wifi-didongviet_3.jpg",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+              "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+             "content" : "iPad Pro M2 11-inch là máy mới 100%, iPad Pro có thiết kế tinh tế, hiện đại tích hợp với con chip Apple M2 với hiệu năng cực khủng, màn hình Liquid Retina 11-inch hỗ trợ tần số quét 120Hz hứa hẹn sẽ mang lại nhiều trải nghiệm tuyệt vời cho người dùng."
+            },
+            {
+              "id": "2",
+              "name": "iPad Pro M2 12.9-inch (2022) | 128GB 5G",
+              "lable_product": "Ipad",
+              "reducedprice": "39.290.000 đ",
+              "price": "42.690.000 đ",
+              "introduction": "iPad Pro M2 12.9-inch (2022) | 128GB 5G",
+              "image": "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/ipad-pro-m2-12.9-inch-128gb-5g-didongviet_3.jpg",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+              "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+              "content" : "iPad Pro M2 12.9-inch là máy mới 100%, iPad Pro có thiết kế tinh tế, hiện đại tích hợp với con chip Apple M2 với hiệu năng cực khủng, màn hình Liquid Retina 11-inch hỗ trợ tần số quét 120Hz hứa hẹn sẽ mang lại nhiều trải nghiệm tuyệt vời cho người dùng."
+            },
+            {
+              "id": "3",
+              "name": "iPad Pro M2 12.9-inch (2022) | 256GB Wifi",
+              "lable_product": "Ipad",
+              "reducedprice": "24.990.000 đ",
+              "price": "28.340.000 đ",
+              "introduction": "iPad Pro M2 12.9-inch (2022) | 256GB Wifi",
+              "image": "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/ipad-pro-m2-12.9-inch-128gb-wifi-didongviet.jpg",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+              "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+             "content" : "iPad Pro M2 12.9-inch là máy mới 100%, iPad Pro có thiết kế tinh tế, hiện đại tích hợp với con chip Apple M2 với hiệu năng cực khủng, màn hình Liquid Retina 11-inch hỗ trợ tần số quét 120Hz hứa hẹn sẽ mang lại nhiều trải nghiệm tuyệt vời cho người dùng."
+            },
+            {
+              "id": "4",
+              "name": "iPad Air 5 2022 | M1 256GB Wifi & 5G",
+              "lable_product": "Ipad",
+              "reducedprice": "24.290.000 đ",
+              "price": "28.340.000 đ",
+              "introduction": "iPad Air 5 2022 | M1 256GB Wifi & 5G",
+              "image": "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/ipad-thumb_1_1.png",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+              "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+             "content" : "iPad Air 5 chính hãng. Tablet sở hữu kiểu dáng gọn nhẹ, tinh tế, dùng con chip M1 với hiệu năng cực khủng cùng màn hình Retina IPS LCD 10.9 inch hỗ trợ tần số quét 60Hz, giúp đem lại nhiều trải nghiệm tuyệt vời cho người dùng."
+            },
+            {
+              "id": "5",
+              "name": "iPad Mini 6 2021 | 256GB Wifi & 5G",
+              "lable_product": "Ipad",
+              "reducedprice": "11.590.000 đ",
+              "price": "18.940.000 đ",
+              "introduction": "iPad Mini 6 2021 | 256GB Wifi & 5G",
+              "image": "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/ipad-mini-6-256gb-wifi-5g.jpg",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+              "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+             "content" : "iPad Mini 6 Chính hãng. Máy được trang bị con chip A15 Bionic mạnh mẽ, thiết kế mỏng nhẹ và màn hình lớn 8.3 inch và camera được trang bị thêm tính năng Center Stage tuyệt vời, phù hợp với người dùng cần trải nghiệm tiện lợi, mượt mà trên một chiếc tablet thương hiệu lớn."
+            },
+            {
+              "id": "6",
+              "name": "iPad Air 5 2022 | M1 64GB Wifi & 5G",
+              "lable_product": "Ipad",
+              "reducedprice": "17.990.000 đ",
+              "price": "20.940.000 đ",
+              "introduction": "iPad Air 5 2022 | M1 64GB Wifi & 5G",
+              "image": "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/ipad-thumb_2.png",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+              "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+              "content" : "iPad Air 5 chính hãng. Tablet sở hữu kiểu dáng gọn nhẹ, tinh tế, dùng con chip M1 với hiệu năng cực khủng cùng màn hình Retina IPS LCD 10.9 inch hỗ trợ tần số quét 60Hz, giúp đem lại nhiều trải nghiệm tuyệt vời cho người dùng."
+            },
+            {
+              "id": "7",
+              "name": "iPad Pro M2 11-inch (2022) | 128GB 5G",
+              "lable_product": "Ipad",
+              "reducedprice": "29.990.000 đ",
+              "price": "32.640.000 đ",
+              "introduction": "iPad Pro M2 11-inch (2022) | 128GB 5G",
+              "image": "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/ipad-pro-11-inch-m2-128gb-5g-didongviet.jpg",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+              "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+              "content" : "iPad Pro M2 11-inch là máy mới 100%, iPad Pro có thiết kế tinh tế, hiện đại tích hợp với con chip Apple M2 với hiệu năng cực khủng, màn hình Liquid Retina 11-inch hỗ trợ tần số quét 120Hz hứa hẹn sẽ mang lại nhiều trải nghiệm tuyệt vời cho người dùng."
+            },
+            {
+              "id": "8",
+              "name": "iPad Air 5 2022 | M1 256GB Wifi",
+              "lable_product": "Ipad",
+              "reducedprice": "18.790.000 đ",
+              "price": "20.240.000 đ",
+              "introduction": "iPad Air 5 2022 | M1 256GB Wifi",
+              "image": "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/ipad-thumb_1.png",
+              "list_color": [
+                {
+                    "color":"silver"
+                },
+                {
+                    "color": "black"
+                },
+                {
+                    "color": "white"
+                }                 
+            ],
+          "capacity": [
+                { "DiskSpace": "128gb"},
+                { "DiskSpace": "256gb"},
+                { "DiskSpace": "512gb"}
+            ],
+          "content" : "iPad Pro M2 11-inch là máy mới 100%, iPad Pro có thiết kế tinh tế, hiện đại tích hợp với con chip Apple M2 với hiệu năng cực khủng, màn hình Liquid Retina 11-inch hỗ trợ tần số quét 120Hz hứa hẹn sẽ mang lại nhiều trải nghiệm tuyệt vời cho người dùng."
+            },
+            {
+              "id": "9",
+              "name": "iPad Pro M2 11-inch (2022) | 128GB Wifi",
+              "lable_product": "Ipad",
+              "reducedprice": "16.890.000 đ",
+              "price": "20.630.000 đ",
+              "introduction": "iPad Pro M2 11-inch (2022) | 128GB Wifi",
+              "image": "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/ipad-pro-11-inch-m2-128gb-wifi-didongviet.jpg",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+              "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+              "content" : "iPad Pro M2 11-inch là máy mới 100%, iPad Pro có thiết kế tinh tế, hiện đại tích hợp với con chip Apple M2 với hiệu năng cực khủng, màn hình Liquid Retina 11-inch hỗ trợ tần số quét 120Hz hứa hẹn sẽ mang lại nhiều trải nghiệm tuyệt vời cho người dùng."
+            },
+            {
+              "id": "10",
+              "name": "iPad Mini 6 2021 | 64GB Wifi",
+              "lable_product": "Ipad",
+              "reducedprice": "10.890.000 đ",
+              "price": "12.630.000 đ",
+              "introduction": "iPad Mini 6 2021 | 64GB Wifi",
+              "image": "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/ipad-mini-6-64gb-wifi.jpg",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+              "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+              "content" : "iPad Mini 6 chính hãng. Máy được trang bị con chip A15 Bionic mạnh mẽ, thiết kế mỏng nhẹ và màn hình lớn 8.3 inch và camera được trang bị thêm tính năng Center Stage tuyệt vời, phù hợp với người dùng cần trải nghiệm tiện lợi, mượt mà trên một chiếc tablet thương hiệu lớn."
+            },
+            {
+              "id": "11",
+              "name": "iPad Air 5 2022 | M1 64GB Wifi",
+              "lable_product": "Ipad",
+              "reducedprice": "13.560.000 đ",
+              "price": "15.680.000 đ",
+              "introduction": "iPad Air 5 2022 | M1 64GB Wifi",
+              "image": "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/ipad-thumb.png",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+              "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+              "content" : "iPad Pro M2 11-inch là máy mới 100%, iPad Pro có thiết kế tinh tế, hiện đại tích hợp với con chip Apple M2 với hiệu năng cực khủng, màn hình Liquid Retina 11-inch hỗ trợ tần số quét 120Hz hứa hẹn sẽ mang lại nhiều trải nghiệm tuyệt vời cho người dùng."
+            },
+            {
+              "id": "12",
+              "name": "iPad Mini 6 2021 | 64GB Wifi & 5G",
+              "lable_product": "Ipad",
+              "reducedprice": "16.990.000 đ",
+              "price": "19.290.000 đ",
+              "introduction": "iPad Mini 6 2021 | 64GB Wifi & 5G",
+              "image": "https://cdn-v2.didongviet.vn/files/media/catalog/product/i/p/ipad-mini-6-64gb-wifi-5g.jpg",
+              "list_color": [
+                    {
+                        "color":"silver"
+                    },
+                    {
+                        "color": "black"
+                    },
+                    {
+                        "color": "white"
+                    }                 
+                ],
+              "capacity": [
+                    { "DiskSpace": "128gb"},
+                    { "DiskSpace": "256gb"},
+                    { "DiskSpace": "512gb"}
+                ],
+              "content" : "iPad Mini 6 Chính hãng. Máy được trang bị con chip A15 Bionic mạnh mẽ, thiết kế mỏng nhẹ và màn hình lớn 8.3 inch và camera được trang bị thêm tính năng Center Stage tuyệt vời, phù hợp với người dùng cần trải nghiệm tiện lợi, mượt mà trên một chiếc tablet thương hiệu lớn."
+            }
+          ]
+        }
+      ]
+    }
+]

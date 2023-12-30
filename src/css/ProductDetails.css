@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.list{
+    margin-bottom: 20px;
+}
+
+.list a{
+    margin: 10px 10px;
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+}
+
+.list a:hover{
+    color: greenyellow;
+    transition: 0.5s;
+}
+
+.menu-list{
+    background-color: #32afb8;
+}
+
+
+.title{
+    margin-top: 80px;
+}
+
+.wapper{
+    border: 1px solid;
+    border-radius: 10px;
+    background-color: wheat;
+    margin: 30px 0;
+    border: none;
+}
+
+/* LEFT */
+
+.info{
+    margin-top: 20px;
+}
+.describe{
+    margin-top: 10px;
+}
+
+
+
+/* RIGHT */
+.list-capacity{
+    font-weight: 500;
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+
+.capacity{
+    padding: 5px 10px;
+    border-radius: 5px;
+    background-color: #75d8df;
+    margin-right: 10px;
+}
+
+.capacity.active{
+    background-color: #e66fe0;
+}
+
+.capacity:hover{
+    background-color: #e66fe0;
+    transition: 0.2s;
+    color: white;
+}
+
+.list-color{
+    font-weight: 500;
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+
+.color{
+    padding: 5px 10px;
+    border-radius: 5px;
+    background-color: #75d8df;
+    margin-right: 10px;
+}
+
+.color:hover{
+    background-color: #e66fe0;
+    transition: 0.2s;
+    color: white;
+}
+
+.product-details {
+    margin-right: 20px;
+}
+
+.price-product{
+    font-weight: 500;
+    margin: 10px 0;
+    text-decoration: none;
+}
+
+.select button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    padding: 5px 20px;
+    border-radius: 10px;
+    background-color: #e66fe0;
+}
+
+.name-product{
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+.list-name{
+    text-decoration: none;
+    margin-right:  10px;
+    border: solid 1px;
+    padding: 3px 5px;
+    border-radius: 5px;
+}

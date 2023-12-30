@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.product{
+    margin-top: 2px;
+}
+.product .list-name{
+    background-color: gray;
+    color: white;
+    font-weight: 500;
+}
+
+.product a:hover{
+    outline: red;
+}
